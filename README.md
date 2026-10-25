@@ -1,4 +1,4 @@
 # Bookworm 
 A library management TUI built in Rust
 
-*I built this to practice rust. It sucks :)* 
+Built for the sole purpose of helping me learn and practice Rust, including ownership/borrowing systems, TUI state rendering, and file I/O.
